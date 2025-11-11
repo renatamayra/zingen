@@ -94,8 +94,7 @@ ul[role="list"] {
 
 img {
     max-width: 100%;
-    display: block;
-    margin: auto;
+    display: inline-block
   }
 
 @media (width >= 80em) {
