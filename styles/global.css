@@ -92,6 +92,12 @@ ul[role="list"] {
   list-style: none;
 }
 
+img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+  }
+
 @media (width >= 80em) {
   :root {
   --fs-lg: 2rem;
