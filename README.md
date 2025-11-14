@@ -12,7 +12,7 @@ A ideia nasceu da intenção de criar um espaço simples, fluido e intuitivo, on
 </p>
 
 <p align="center">
-  <img alt="Preview do projeto Zingen" src="../zingen/assets/main-zingen.png" width="50%">
+  <img alt="Preview do projeto Zingen" src="assets/main-zingen.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
